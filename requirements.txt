@@ -1,0 +1,16 @@
+# Core Python libraries
+numpy
+pandas
+
+# NLP and deep learning
+nltk
+transformers
+torch
+
+# Jupyter environment
+jupyter
+notebook
+
+# Utility libraries
+tqdm
+regex
