@@ -38,3 +38,30 @@ Clone the repository:
 ```bash
 git clone https://github.com/Su-creator-spec/ConvoSketch.git
 cd ConvoSketch
+```
+###  Usage
+
+1. **Open the Jupyter Notebook**
+   ```bash
+   jupyter notebook conversationsummarization.ipynb
+   ```
+2. **Run the cells step by step to:
+   - Load datasets.
+   - Preprocess conversational text.
+   - Apply summarization models.
+   - Generate concise sketches of meaning.
+3. **Experiment with your own data
+
+### Example Output
+Input:
+```bash
+A: Hey, did you finish the report?
+B: Not yet, I’ll send it tonight.
+A: Okay, thanks!
+```
+
+Output:
+```bash
+Report pending, will be sent tonight.
+```
+   
